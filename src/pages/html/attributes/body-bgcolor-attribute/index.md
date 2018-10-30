@@ -7,7 +7,7 @@ The `<body bgcolor>` attribute assigns a background color for an HTML document.
 **Syntax**:
 
 `<body bgcolor="color">`
-The color value can be either a color name (like, `purple`) or a hex value (like, `#af0000`).
+The color value can be either a color name (like, `purple`)  a hex value (like, `#af0000`) or rgb value (like `rgb(255,0,0)`).
 
 To add a background color to a webpage you can use the `<body bgcolor="######">` attribute. It specifies a color for the HTML document to display.
 
